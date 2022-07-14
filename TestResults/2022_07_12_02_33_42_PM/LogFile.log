@@ -1,0 +1,77 @@
+ INFO | 2022-07-12 14:33:42,135 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-12 14:33:42,138 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_12_02_33_42_PM
+ INFO | 2022-07-12 14:33:42,139 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-12 14:33:42,272 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-12 14:33:42,369 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 14:33:42,538 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-12 14:33:42,539 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-12 14:33:42,539 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-12 14:33:42,540 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-12 14:33:42,540 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-12 14:33:42,541 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-12 14:33:42,542 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-12 14:33:42,542 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-12 14:33:42,543 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-12 14:33:42,543 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-12 14:33:42,543 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Element time out set
+ INFO | 2022-07-12 14:33:42,545 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ##### Start of Test Case : GOH Single Product Mail Card #####
+ INFO | 2022-07-12 14:33:42,545 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Case Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 14:33:42,545 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 14:33:42,574 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 14:33:42,574 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: Execute
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_01
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: NO
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_02
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: YES
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: 
+ INFO | 2022-07-12 14:33:42,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: 
+ INFO | 2022-07-12 14:33:42,581 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 14:33:43,880 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 14:33:43,880 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 14:33:43,881 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 14:33:55,201 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 14:33:55,202 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 14:34:35,150 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-12 14:34:35,151 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-12 14:35:00,923 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Pagination WebElement-1
+ INFO | 2022-07-12 14:35:00,930 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Pagination WebElement-1
+ INFO | 2022-07-12 14:35:11,862 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-12 14:35:11,874 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-12 14:35:27,425 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Pagination WebElement-3
+ INFO | 2022-07-12 14:35:27,432 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Pagination WebElement-3
+ INFO | 2022-07-12 14:35:37,109 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Product WebElement-12 mosquito nets
+ INFO | 2022-07-12 14:35:37,118 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Product WebElement-12 mosquito nets
+ INFO | 2022-07-12 14:36:10,882 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Cart
+ INFO | 2022-07-12 14:36:10,884 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Cart
+ INFO | 2022-07-12 14:36:22,250 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Continue
+ INFO | 2022-07-12 14:36:22,251 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Continue
+ INFO | 2022-07-12 14:36:48,441 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Selected value -Mail Card from dropdown->Mail Card
+ INFO | 2022-07-12 14:36:48,448 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Selected value -Mail Card from dropdown->Mail Card
+ INFO | 2022-07-12 14:36:58,959 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Entered text -> Auto Test
+ INFO | 2022-07-12 14:36:58,961 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Entered text -> Auto Test
+ INFO | 2022-07-12 14:37:12,994 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Save and Continue
+ INFO | 2022-07-12 14:37:12,996 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Save and Continue
+ERROR | 2022-07-12 14:37:18,357 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to select value from the dropdown unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56543}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ccbb6ea4ca293518fdfae8ab96f74162
+*** Element info: {Using=xpath, value=(//select[contains(@id,'GOHcardDelivery')])[2]}
+ERROR | 2022-07-12 14:37:18,369 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to select value from the dropdown unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56543}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ccbb6ea4ca293518fdfae8ab96f74162
+*** Element info: {Using=xpath, value=(//select[contains(@id,'GOHcardDelivery')])[2]}
+ INFO | 2022-07-12 14:37:18,388 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-12 14:37:18,780 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56543}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ccbb6ea4ca293518fdfae8ab96f74162

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite configfailurepolicy="continue" name="Suite" parallel="none">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="TestCases.TestCases"/>
+      <methods>
+        <include name="GOH_Single_Product_Mail_Card"/>
+        <exclude name="TC_002"/>
+        <exclude name="TC_003"/>
+        <exclude name="TC_004"/>
+        <exclude name="TC_005"/>
+        <exclude name="TC_006"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

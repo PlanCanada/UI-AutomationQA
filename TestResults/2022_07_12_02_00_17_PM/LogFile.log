@@ -1,0 +1,53 @@
+ INFO | 2022-07-12 14:00:17,267 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-12 14:00:17,270 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_12_02_00_17_PM
+ INFO | 2022-07-12 14:00:17,270 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-12 14:00:17,404 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-12 14:00:17,506 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 14:00:17,655 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-12 14:00:17,661 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-12 14:00:17,662 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-12 14:00:17,662 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-12 14:00:17,663 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-12 14:00:17,664 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-12 14:00:17,664 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-12 14:00:17,665 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-12 14:00:17,665 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-12 14:00:17,666 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-12 14:00:17,666 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Element time out set
+ INFO | 2022-07-12 14:00:17,667 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ##### Start of Test Case : GOH Single Product Mail Card #####
+ INFO | 2022-07-12 14:00:17,668 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Case Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 14:00:17,668 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 14:00:17,698 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 14:00:17,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: Execute
+ INFO | 2022-07-12 14:00:17,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_01
+ INFO | 2022-07-12 14:00:17,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: NO
+ INFO | 2022-07-12 14:00:17,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_02
+ INFO | 2022-07-12 14:00:17,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: YES
+ INFO | 2022-07-12 14:00:17,700 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: 
+ INFO | 2022-07-12 14:00:17,700 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: 
+ INFO | 2022-07-12 14:00:17,706 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 14:00:19,428 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 14:00:19,430 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 14:00:19,430 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 14:00:44,181 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 14:00:44,181 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 14:00:55,217 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-12 14:00:55,218 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-12 14:01:33,859 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Pagination WebElement-1
+ INFO | 2022-07-12 14:01:33,865 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Pagination WebElement-1
+ INFO | 2022-07-12 14:01:40,881 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-12 14:01:40,889 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-12 14:01:55,692 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Pagination WebElement-3
+ INFO | 2022-07-12 14:01:55,699 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Pagination WebElement-3
+ INFO | 2022-07-12 14:02:01,933 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Product WebElement-12 mosquito nets
+ INFO | 2022-07-12 14:02:01,941 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Product WebElement-12 mosquito nets
+ INFO | 2022-07-12 14:02:52,814 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Cart
+ INFO | 2022-07-12 14:02:52,815 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Cart
+ INFO | 2022-07-12 14:03:10,303 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Continue
+ INFO | 2022-07-12 14:03:10,304 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Continue
+ INFO | 2022-07-12 14:10:23,879 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Selected value -Mail Card from dropdown->Mail Card
+ INFO | 2022-07-12 14:10:23,885 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Selected value -Mail Card from dropdown->Mail Card
+ INFO | 2022-07-12 14:13:24,908 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Selected value -Download Card from dropdown->Download Card
+ INFO | 2022-07-12 14:13:24,916 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Selected value -Download Card from dropdown->Download Card
+ INFO | 2022-07-12 14:18:31,560 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Selected value -Mail Card from dropdown->Mail Card
+ INFO | 2022-07-12 14:18:31,566 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Selected value -Mail Card from dropdown->Mail Card

@@ -1,0 +1,51 @@
+ INFO | 2022-07-12 12:26:36,951 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-12 12:26:36,955 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_12_00_26_36_PM
+ INFO | 2022-07-12 12:26:36,955 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-12 12:26:37,096 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-12 12:26:37,196 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 12:26:37,364 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-12 12:26:37,365 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-12 12:26:37,365 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-12 12:26:37,366 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-12 12:26:37,366 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-12 12:26:37,368 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-12 12:26:37,369 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-12 12:26:37,369 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-12 12:26:37,370 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-12 12:26:37,370 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-12 12:26:37,370 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Element time out set
+ INFO | 2022-07-12 12:26:37,371 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ##### Start of Test Case : GOH Single Product Mail Card #####
+ INFO | 2022-07-12 12:26:37,372 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Case Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 12:26:37,372 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-12 12:26:37,401 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-12 12:26:37,401 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: Execute
+ INFO | 2022-07-12 12:26:37,402 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_01
+ INFO | 2022-07-12 12:26:37,402 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: YES
+ INFO | 2022-07-12 12:26:37,402 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: 
+ INFO | 2022-07-12 12:26:37,402 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: 
+ INFO | 2022-07-12 12:26:37,408 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 12:26:38,622 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 12:26:38,622 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-12 12:26:38,623 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-12 12:26:49,485 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 12:26:49,486 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-12 12:26:55,400 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-12 12:26:55,400 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Gifts of Hope
+ERROR | 2022-07-12 12:26:57,994 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Clicked on WebElement is not displayed-1
+ERROR | 2022-07-12 12:26:57,995 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement is not displayed-1
+ INFO | 2022-07-12 12:26:57,995 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-12 12:26:58,012 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63256}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b5fb2c00f891b6a08718d1267a4194a1
+ INFO | 2022-07-12 12:26:58,210 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-12 12:26:58,211 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-12 12:26:58,211 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-12 12:27:19,407 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Unable to attach the file to TestLink in following path->C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_12_00_26_36_PM/Results.html
+ INFO | 2022-07-12 12:27:19,408 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_12_00_26_36_PM/Results.html
+ INFO | 2022-07-12 12:27:19,409 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ###################################
+ INFO | 2022-07-12 12:27:19,410 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Script Execution Complete
+ INFO | 2022-07-12 12:27:19,410 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ####################################

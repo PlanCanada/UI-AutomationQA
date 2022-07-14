@@ -1,0 +1,434 @@
+ INFO | 2022-07-13 11:52:02,610 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-13 11:52:02,614 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada_V.1\PlanCanada_V.1\TestResults\2022_07_13_11_52_02_AM
+ INFO | 2022-07-13 11:52:02,614 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-13 11:52:02,822 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-13 11:52:02,995 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-13 11:52:03,427 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-13 11:52:03,428 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-13 11:52:03,429 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-13 11:52:03,431 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-13 11:52:03,432 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-13 11:52:03,437 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-13 11:52:03,439 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-13 11:52:03,440 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-13 11:52:03,442 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-13 11:52:03,443 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-13 11:52:03,443 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Element time out set
+ INFO | 2022-07-13 11:52:03,444 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ##### Start of Test Case : GOH Single Product Mail Card #####
+ INFO | 2022-07-13 11:52:03,445 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Case Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-13 11:52:03,446 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-13 11:52:03,564 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card
+ INFO | 2022-07-13 11:52:03,564 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: Execute
+ INFO | 2022-07-13 11:52:03,564 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_01
+ INFO | 2022-07-13 11:52:03,565 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: YES
+ INFO | 2022-07-13 11:52:03,565 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: GOH_Single_Product_Mail_Card_02
+ INFO | 2022-07-13 11:52:03,565 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: NO
+ INFO | 2022-07-13 11:52:03,565 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Test Data Set Name: 
+ INFO | 2022-07-13 11:52:03,565 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Execution Flag: 
+ INFO | 2022-07-13 11:52:03,575 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:52:09,686 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-13 11:52:09,688 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:52:09,689 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-13 11:52:20,508 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-13 11:52:20,512 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-13 11:52:29,591 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-13 11:52:29,592 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Gifts of Hope
+ INFO | 2022-07-13 11:52:40,797 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Pagination WebElement-1
+ INFO | 2022-07-13 11:52:40,797 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Pagination WebElement-1
+ INFO | 2022-07-13 11:52:44,459 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-13 11:52:44,460 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on Product WebElement-Mosquito net
+ INFO | 2022-07-13 11:52:52,551 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Shop Cart
+ INFO | 2022-07-13 11:52:52,553 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Shop Cart
+ERROR | 2022-07-13 11:52:59,788 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to click on Element Summary, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='GreetingCard']'
+ERROR | 2022-07-13 11:52:59,789 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to click on Element Summary, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='GreetingCard']'
+ INFO | 2022-07-13 11:52:59,792 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:06,215 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:06,217 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:06,218 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:06,222 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:06,224 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:06,710 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Clicked on WebElement-Continue
+ INFO | 2022-07-13 11:53:06,711 | Common.java | 75 | GOH_Single_Product_Mail_Card:  Report step generation success : Clicked on WebElement-Continue
+ERROR | 2022-07-13 11:53:12,014 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to select value from the dropdown Element <select id="GOHcardDelivery-492e73b2-6707-4a75-8bc7-629c3527abf4-0" class="gohCardDeliveryDropdown hide-select" name="GOHcardDelivery-492e73b2-6707-4a75-8bc7-629c3527abf4-0"> is not clickable at point (524,565) because another element <div class="custom-select"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ERROR | 2022-07-13 11:53:12,015 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to select value from the dropdown Element <select id="GOHcardDelivery-492e73b2-6707-4a75-8bc7-629c3527abf4-0" class="gohCardDeliveryDropdown hide-select" name="GOHcardDelivery-492e73b2-6707-4a75-8bc7-629c3527abf4-0"> is not clickable at point (524,565) because another element <div class="custom-select"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ INFO | 2022-07-13 11:53:12,017 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:16,417 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:16,420 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:16,423 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:16,426 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:16,428 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:16,489 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//textarea[contains(@id,'GOHMailCardChildGenericMessage')]'
+ERROR | 2022-07-13 11:53:16,490 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//textarea[contains(@id,'GOHMailCardChildGenericMessage')]'
+ INFO | 2022-07-13 11:53:16,492 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:20,685 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:20,688 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:20,690 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:20,692 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:20,694 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:22,873 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->Auto Test
+ERROR | 2022-07-13 11:53:22,874 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->Auto Test
+ INFO | 2022-07-13 11:53:22,877 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:27,003 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:27,006 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:27,009 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:27,010 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:27,012 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:27,022 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Uanble to click on Element-Save and Continue, Exception is->Unable to locate element: //div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+*** Element info: {Using=xpath, value=//div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]}
+ERROR | 2022-07-13 11:53:27,023 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Uanble to click on Element-Save and Continue, Exception is->Unable to locate element: //div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+*** Element info: {Using=xpath, value=//div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]}
+ INFO | 2022-07-13 11:53:27,026 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:30,911 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:30,915 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:30,917 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:30,919 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:30,920 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:30,990 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//textarea[contains(@id,'GOHMailCardChildGenericMessage')]'
+ERROR | 2022-07-13 11:53:30,991 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//textarea[contains(@id,'GOHMailCardChildGenericMessage')]'
+ INFO | 2022-07-13 11:53:30,993 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:35,212 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:35,216 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:35,219 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:35,221 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:35,223 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:37,425 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->Auto Test
+ERROR | 2022-07-13 11:53:37,426 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->Auto Test
+ INFO | 2022-07-13 11:53:37,429 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:42,929 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:42,933 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:42,936 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:42,939 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:42,941 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:53:50,136 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to click on Element Save and Continue, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]'
+ERROR | 2022-07-13 11:53:50,138 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to click on Element Save and Continue, Element with following property is not displayed->Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='card-item__information goh-mail-card active']//button[contains(text(),'Save and continue')]'
+ INFO | 2022-07-13 11:53:50,140 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:53:54,781 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:53:54,784 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:54,787 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:54,790 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:53:54,794 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:02,266 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ERROR | 2022-07-13 11:54:02,268 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ INFO | 2022-07-13 11:54:02,273 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:06,870 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:06,872 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:06,873 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:06,874 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:06,877 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:07,021 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ERROR | 2022-07-13 11:54:07,021 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ INFO | 2022-07-13 11:54:07,022 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:11,021 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:11,023 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:11,025 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:11,027 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:11,029 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:11,073 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.id: FormModel_FirstName'
+ERROR | 2022-07-13 11:54:11,073 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.id: FormModel_FirstName'
+ INFO | 2022-07-13 11:54:11,077 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:15,841 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:15,844 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:15,847 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:15,848 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:15,849 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:18,051 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ERROR | 2022-07-13 11:54:18,051 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ INFO | 2022-07-13 11:54:18,053 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:22,126 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:22,128 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:22,130 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:22,135 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:22,138 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:22,191 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_LastName']'
+ERROR | 2022-07-13 11:54:22,191 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_LastName']'
+ INFO | 2022-07-13 11:54:22,193 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:26,059 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:26,060 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:26,062 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:26,064 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:26,066 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:28,275 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->test
+ERROR | 2022-07-13 11:54:28,279 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->test
+ INFO | 2022-07-13 11:54:28,281 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:32,185 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:32,187 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:32,190 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:32,192 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:32,193 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:32,246 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_Email']'
+ERROR | 2022-07-13 11:54:32,246 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_Email']'
+ INFO | 2022-07-13 11:54:32,248 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:36,245 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:36,248 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:36,254 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:36,258 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:36,260 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:38,422 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->JasSingh@planCanada.ca
+ERROR | 2022-07-13 11:54:38,422 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->JasSingh@planCanada.ca
+ INFO | 2022-07-13 11:54:38,424 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:42,405 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:42,409 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:42,411 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:42,414 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:42,417 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:42,472 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_Address']'
+ERROR | 2022-07-13 11:54:42,474 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_Address']'
+ INFO | 2022-07-13 11:54:42,475 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:46,517 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:46,531 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:46,534 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:46,538 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:46,541 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:48,720 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->245 Eglinton Ave E
+ERROR | 2022-07-13 11:54:48,721 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->245 Eglinton Ave E
+ INFO | 2022-07-13 11:54:48,722 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:52,578 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:52,581 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:52,583 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:52,586 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:52,588 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:52,637 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_City']'
+ERROR | 2022-07-13 11:54:52,638 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_City']'
+ INFO | 2022-07-13 11:54:52,639 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:54:56,447 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:54:56,450 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:56,451 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:56,454 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:54:56,457 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:54:58,607 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->Toronto
+ERROR | 2022-07-13 11:54:58,608 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->Toronto
+ INFO | 2022-07-13 11:54:58,613 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:02,688 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:02,691 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:02,694 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:02,697 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:02,699 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:02,722 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to select value from the dropdown Unable to locate element: //select[@id='FormModel_Province']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+*** Element info: {Using=xpath, value=//select[@id='FormModel_Province']}
+ERROR | 2022-07-13 11:55:02,722 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to select value from the dropdown Unable to locate element: //select[@id='FormModel_Province']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+*** Element info: {Using=xpath, value=//select[@id='FormModel_Province']}
+ INFO | 2022-07-13 11:55:02,724 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:06,810 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:06,814 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:06,818 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:06,826 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:06,831 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:06,886 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_PostalCode']'
+ERROR | 2022-07-13 11:55:06,887 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_PostalCode']'
+ INFO | 2022-07-13 11:55:06,889 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:11,070 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:11,072 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:11,074 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:11,076 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:11,078 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:13,244 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->M4P 0B3
+ERROR | 2022-07-13 11:55:13,245 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->M4P 0B3
+ INFO | 2022-07-13 11:55:13,247 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:17,168 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:17,171 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:17,173 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:17,175 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:17,176 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:17,240 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_PhoneNumber']'
+ERROR | 2022-07-13 11:55:17,240 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='FormModel_PhoneNumber']'
+ INFO | 2022-07-13 11:55:17,244 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:21,096 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:21,098 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:21,101 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:21,103 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:21,105 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:23,289 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->18003871418
+ERROR | 2022-07-13 11:55:23,290 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->18003871418
+ INFO | 2022-07-13 11:55:23,293 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:27,075 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:27,078 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:27,080 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:27,082 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:27,083 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:34,611 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ERROR | 2022-07-13 11:55:34,617 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ INFO | 2022-07-13 11:55:34,619 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:38,508 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:38,510 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:38,513 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:38,516 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:38,517 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:38,766 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ERROR | 2022-07-13 11:55:38,767 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ INFO | 2022-07-13 11:55:38,771 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:42,703 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:42,706 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:42,709 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:42,712 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:42,716 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:42,764 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='CardNumber']'
+ERROR | 2022-07-13 11:55:42,765 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='CardNumber']'
+ INFO | 2022-07-13 11:55:42,766 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:46,719 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:46,721 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:46,724 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:46,727 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:46,728 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:48,929 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->41111111111111
+ERROR | 2022-07-13 11:55:48,932 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->41111111111111
+ INFO | 2022-07-13 11:55:48,933 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:52,943 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:52,946 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:52,949 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:52,950 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:52,952 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:52,991 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChFirstName']'
+ERROR | 2022-07-13 11:55:52,991 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChFirstName']'
+ INFO | 2022-07-13 11:55:53,002 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:55:57,217 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:55:57,219 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:57,221 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:57,225 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:55:57,226 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:55:59,423 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ERROR | 2022-07-13 11:55:59,428 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ INFO | 2022-07-13 11:55:59,430 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:03,605 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:03,615 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:03,616 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:03,618 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:03,620 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:03,714 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChLastName']'
+ERROR | 2022-07-13 11:56:03,714 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChLastName']'
+ INFO | 2022-07-13 11:56:03,719 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:08,230 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:08,234 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:08,235 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:08,237 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:08,239 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:10,388 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->TestOne
+ERROR | 2022-07-13 11:56:10,398 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->TestOne
+ INFO | 2022-07-13 11:56:10,400 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:14,778 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:14,780 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:14,782 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:14,782 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:14,782 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:14,840 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ExpirationDate']'
+ERROR | 2022-07-13 11:56:14,840 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ExpirationDate']'
+ INFO | 2022-07-13 11:56:14,840 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:19,088 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:19,099 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:19,102 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:19,103 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:19,103 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:21,293 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->20/25
+ERROR | 2022-07-13 11:56:21,294 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->20/25
+ INFO | 2022-07-13 11:56:21,296 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:25,997 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:26,000 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:26,002 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:26,005 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:26,006 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:26,053 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='SecurityCode']'
+ERROR | 2022-07-13 11:56:26,053 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='SecurityCode']'
+ INFO | 2022-07-13 11:56:26,056 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:30,826 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:30,828 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:30,829 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:30,831 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:30,833 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:33,045 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Element is not displayed, Unable to enter text->987
+ERROR | 2022-07-13 11:56:33,046 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Element is not displayed, Unable to enter text->987
+ INFO | 2022-07-13 11:56:33,048 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:37,527 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:37,529 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:37,530 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:37,532 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:37,534 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:45,099 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ERROR | 2022-07-13 11:56:45,099 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to click on Element Summary, Element with following property is not displayed->[[FirefoxDriver: firefox on WINDOWS (eee767ea-2706-4480-96f7-d62e77e9aa78)] -> xpath: //input[@id='GreetingCard']]
+ INFO | 2022-07-13 11:56:45,103 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:49,396 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:49,400 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:49,401 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:49,401 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:49,403 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-13 11:56:49,615 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ERROR | 2022-07-13 11:56:49,616 | Common.java | 87 | GOH_Single_Product_Mail_Card:  Report step generation success : Uanble to click on Element-Continue, Exception is->Element <button class="btn--primary greetingCardSubmit disabled"> is not clickable at point (1051,552) because another element <div class="btn-wrapper js-payment-method js-payment-method__CreditCard js-payment-method__ACH js-payment-method__Cash js-payment-method__Cheque"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 20496, moz:profile: C:\Users\jassingh\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eee767ea-2706-4480-96f7-d62e77e9aa78
+ INFO | 2022-07-13 11:56:49,619 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of Browser from Test Configuration file : Firefox
+ INFO | 2022-07-13 11:56:54,283 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-13 11:56:54,290 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:54,290 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:54,294 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:54,294 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-13 11:56:59,362 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-13 11:58:23,690 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Unable to update the status for TestCase->GOH_Single_Product_Mail_Card
+ INFO | 2022-07-13 11:58:23,691 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to update the status for TestCase->GOH_Single_Product_Mail_Card
+ INFO | 2022-07-13 11:58:24,328 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-13 11:58:24,330 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-13 11:58:24,331 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-13 11:58:45,576 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada_V.1\PlanCanada_V.1\TestResults\2022_07_13_11_52_02_AM/Results.html
+ INFO | 2022-07-13 11:58:45,577 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\PlanCanada_V.1\PlanCanada_V.1\TestResults\2022_07_13_11_52_02_AM/Results.html
+ INFO | 2022-07-13 11:58:45,577 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ###################################
+ INFO | 2022-07-13 11:58:45,578 | Common.java | 79 | GOH_Single_Product_Mail_Card:  Script Execution Complete
+ INFO | 2022-07-13 11:58:45,578 | Common.java | 79 | GOH_Single_Product_Mail_Card:  ####################################
